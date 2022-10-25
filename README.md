@@ -18,7 +18,7 @@ I’m a self taught full-stack developer.My tech stack includes react, nodejs, m
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
+
 
 - 🌱 I’m currently learning Typescript and Microservices  
   
@@ -26,11 +26,7 @@ I’m a self taught full-stack developer.My tech stack includes react, nodejs, m
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
 
-</td><td valign="top" width="50%">
 
-
-
-</td></tr></table>  
 
 <br/>  
 
