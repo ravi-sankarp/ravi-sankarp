@@ -13,12 +13,6 @@
 
 ### Glad to see you here!  
 I’m a self taught full-stack developer.My tech stack includes react, nodejs, mongodb and express.
-  
-  
-
-<br/>  
-
-
 
 - 🌱 I’m currently learning Typescript and Microservices  
   
