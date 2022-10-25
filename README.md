@@ -61,17 +61,4 @@ I’m a self taught full-stack developer.My tech stack includes react, nodejs, m
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
+<br/> 
