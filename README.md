@@ -81,4 +81,3 @@ I’m a self taught full-stack developer.My tech stack includes react, nodejs, m
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
