@@ -25,7 +25,7 @@ I’m a self taught full-stack developer.My tech stack includes react, nodejs, m
 <br/>  
 
 
-## Pinned Repositeries
+## Pinned Repositories
 <a href ="https://github.com/ravi-sankarp/gamestop-ecommerce-app">Game Stop Ecommerce Project</a>
 
 ## Languages and Tools  
