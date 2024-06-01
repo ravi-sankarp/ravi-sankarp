@@ -5,11 +5,8 @@
 **Hey** 👋, I'm Ravi Sankar  <br>
 
 ### Glad to see you here!  
-I’m a self taught full-stack developer. My tech stack includes **Typescript, Node.js, React, MongoDB** and **Express**.<br><br>
-🌱 I’m currently learning **Docker** and **Kubernetes**  
-
-❓ Ask me about anything related to MERN stack and related technologies 
-
+Full Stack Developer with expertise in **Typescript, Node.js, React, Vue, Postgres** and **MongoDB**.<br><br>
+🌱 Currently learning **Database Internals** and **cpp**  
 
 
 ## 🌐 Socials:
