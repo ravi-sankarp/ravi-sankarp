@@ -1,7 +1,3 @@
-
-# 💫 About Me:
-<br>
-
 **Hey** 👋, I'm Ravi Sankar  <br>
 
 ### Glad to see you here!  
